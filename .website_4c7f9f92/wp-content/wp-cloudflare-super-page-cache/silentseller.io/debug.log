@@ -1,0 +1,10 @@
+[2023-07-12 14:36:00] [cache_controller::purge_cache_queue_write] queue file not exist
+[2023-07-12 14:36:00] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 5 and related contents - Fired action: clean_post_cache
+[2023-07-12 14:36:05] [cache_controller::purge_cache_queue_job] I'm the purge cache cronjob
+[2023-07-12 14:36:07] [cache_controller::purge_urls] Purged specific URLs from Cloudflare cache
+[2023-07-12 14:36:07] [cache_controller::purge_cache_queue_job] Cache purging complete
+[2023-07-16 02:17:19] [cache_controller::purge_cache_queue_write] queue file not exist
+[2023-07-16 02:17:19] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 6 and related contents - Fired action: clean_post_cache
+[2023-07-16 02:17:26] [cache_controller::purge_cache_queue_job] I'm the purge cache cronjob
+[2023-07-16 02:17:27] [cache_controller::purge_urls] Purged specific URLs from Cloudflare cache
+[2023-07-16 02:17:27] [cache_controller::purge_cache_queue_job] Cache purging complete
